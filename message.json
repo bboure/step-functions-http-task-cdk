@@ -1,0 +1,14 @@
+{
+  "Simple": {
+    "Subject": {
+      "Data": "Test email sent using the AWS CLI",
+      "Charset": "UTF-8"
+    },
+    "Body": {
+      "Text": {
+        "Data": "FTW in text !!! v2",
+        "Charset": "UTF-8"
+      }
+    }
+  }
+}
